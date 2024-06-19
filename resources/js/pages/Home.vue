@@ -26,7 +26,7 @@
       }"
             :breakpoints="{
                 300: {
-                    slidesPerView: 1,
+                    slidesPerView: 3,
                     spaceBetween: 20
                 },
                 991: {
@@ -1488,9 +1488,7 @@ hr {
 </style>
 
 <script setup>
-import PlayHeaderSlider from '../components/PlayHeaderSlider.vue';
 import { Swiper, SwiperSlide } from 'swiper/vue';
-import { Pagination } from 'swiper/modules';
 import 'swiper/css';
 import 'swiper/css/pagination';
 import { ref, onMounted, onBeforeUnmount } from 'vue';
