@@ -1,0 +1,45 @@
+{
+  "resources/assets/18plus.png": {
+    "file": "assets/18plus-5QyQK9W_.png",
+    "src": "resources/assets/18plus.png"
+  },
+  "resources/assets/black_star.svg": {
+    "file": "assets/black_star-BYHLZ0xB.svg",
+    "src": "resources/assets/black_star.svg"
+  },
+  "resources/assets/download.png": {
+    "file": "assets/download-Cm2Q8WPl.png",
+    "src": "resources/assets/download.png"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-BO4SXSPZ.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-B1fb0-C9.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "dynamicImports": [
+      "resources/js/pages/Home.vue"
+    ]
+  },
+  "resources/js/pages/Home.vue": {
+    "file": "assets/Home-C2MkhPBN.js",
+    "name": "Home",
+    "src": "resources/js/pages/Home.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "css": [
+      "assets/Home-CJJyBmcG.css"
+    ],
+    "assets": [
+      "assets/black_star-BYHLZ0xB.svg",
+      "assets/download-Cm2Q8WPl.png",
+      "assets/18plus-5QyQK9W_.png"
+    ]
+  }
+}
