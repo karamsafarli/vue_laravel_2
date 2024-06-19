@@ -17,7 +17,7 @@
     "isEntry": true
   },
   "resources/js/app.js": {
-    "file": "assets/app-B1fb0-C9.js",
+    "file": "assets/app-Rflo5yg8.js",
     "name": "app",
     "src": "resources/js/app.js",
     "isEntry": true,
@@ -26,7 +26,7 @@
     ]
   },
   "resources/js/pages/Home.vue": {
-    "file": "assets/Home-C2MkhPBN.js",
+    "file": "assets/Home-CNc9Sklp.js",
     "name": "Home",
     "src": "resources/js/pages/Home.vue",
     "isDynamicEntry": true,
@@ -34,7 +34,7 @@
       "resources/js/app.js"
     ],
     "css": [
-      "assets/Home-CJJyBmcG.css"
+      "assets/Home-P_ZKEcwd.css"
     ],
     "assets": [
       "assets/black_star-BYHLZ0xB.svg",
